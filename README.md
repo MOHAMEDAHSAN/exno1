@@ -1,6 +1,4 @@
-# Exno : 01 Data Cleaning and Outlier Detection & Removal
-
-<h1>Ex. 1   Data Cleaning and Outlier Detection & Removal</h1>
+# Ex : 01 Data Cleaning and Outlier Detection & Removal
 
 ## AIM
 ### To read the given data and perform data cleaning and save the cleaned data to a file.
