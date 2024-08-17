@@ -221,6 +221,4 @@ df1
 <hr>
 
 ## Result
-<br>
-
-### Hence the data was cleaned , outliers were detected and removed.
+ Thus we have cleaned the data and removed the outliers by detection using IQR and Z-score method.
